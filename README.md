@@ -8,3 +8,5 @@
 ### Big-O gösterimini yazınız.
 
 O(n*(logn)) O(6*(log6))
+
+http://Patika.dev
